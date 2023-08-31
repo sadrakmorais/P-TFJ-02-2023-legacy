@@ -25,3 +25,11 @@ O projeto será avaliado com base nos seguintes critérios:
 - Autenticação: Caso opte por implementar a autenticação, ela deve funcionar de acordo com as especificações.
 - Clareza: Tanto o código quanto os comentários devem ser claros e compreensíveis.
 - Entrega: É necessário fornecer o código completo, incluindo os testes, juntamente com instruções para executar o aplicativo localmente.
+
+
+## Instuções
+
+1. Faça um fork deste repositório;
+2. Implemente o que é proposto.
+4. Crie um passo a passo de como rodar sua aplicação.
+5. Após terminar, submeta um pull request e aguarde a avaliação;
