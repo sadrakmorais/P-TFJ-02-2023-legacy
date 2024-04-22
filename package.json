@@ -1,0 +1,38 @@
+{
+  "name": "task-list",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview",
+    "test": "vue-cli-service test:unit"
+  },
+  "dependencies": {
+    "oh-vue-icons": "^1.0.0-rc3",
+    "uuid": "^9.0.1",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0",
+    "vue3-lottie": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/vue-router": "^2.0.0",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vue/cli-plugin-unit-jest": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "@vue/eslint-config-typescript": "^13.0.0",
+    "@vue/test-utils": "^2.4.5",
+    "@vue/vue3-jest": "^29.2.6",
+    "autoprefixer": "^10.4.19",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0",
+    "vue-jest": "^3.0.7",
+    "vue-tsc": "^2.0.6"
+  }
+}
